@@ -1,2 +1,2 @@
-# Alarm_Clock
-A trial to create an Material Alarm Clock
+# Flutter-Alarm-App
+A flutter based app to set an alarm for a particular time.
